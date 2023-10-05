@@ -10,7 +10,7 @@ while (nivel === "") {
     else if (i <= 8.000) {nivel = "platina"}
     else if (i <= 9.000) {nivel = "ascendente"}
     else if (i <= 10.000) {nivel = "imortal"}
-    else if (i >= 10.001) {nivel = "imortal"}
+    else if (i >= 10.001) {nivel = "radiante"}
     i--
 }
 
